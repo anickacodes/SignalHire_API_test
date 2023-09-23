@@ -1,0 +1,8 @@
+- 
+Backend server will be unsure
+
+lab practice backend from class
+>https://github.com/pursuit-curriculum-resources/starter-television-shows-api/blob/main/server.js
+
+new lab for mod 4 😭 that utilizes express 
+>https://github.com/10-1-pursuit/practice-intro-to-express
