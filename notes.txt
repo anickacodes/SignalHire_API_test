@@ -6,3 +6,6 @@ lab practice backend from class
 
 new lab for mod 4 😭 that utilizes express 
 >https://github.com/10-1-pursuit/practice-intro-to-express
+
+mod 4 work 
+>https://github.com/10-1-pursuit/unit-full-stack-web-development
